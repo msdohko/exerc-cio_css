@@ -1,4 +1,4 @@
-# Pratica
+# Prática
 
 A entrega desse exercício consiste em:
 
