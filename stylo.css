@@ -1,16 +1,16 @@
-*{
+*{ /*Reset CSS*/
     box-sizing:border-box;
     margin:0;
     padding:0;
 }
 
-body > header{
+body > header{ /*Menu*/
     background-color: #125CA5;
     padding: 16px 0;
     color: #fff;
 }
 
-body > footer{
+body > footer{/*Rodapé*/
     background-color: #125CA5;
     padding: 16px 0;
     color: #fff;
